@@ -14,6 +14,14 @@ in formato Word (.docx) con la versione PDF accanto.
 - Riquadri NOTA (sfondo EAF1F8, bordo blu) e ATTENZIONE (sfondo FBEAEA, bordo rosso).
 - **Lasciare sempre spazio prima di ogni immagine** (almeno 12 pt) e mettere sotto la didascalia
   "Figura N – testo" in corsivo grigio, centrata.
+- Guide lunghe: sommario cliccabile all'inizio (con numeri di pagina) e segnalibri nel PDF,
+  così da poter navigare dal pannello laterale; in Word i titoli usano gli stili Titolo 1/2
+  (Visualizza → Riquadro di spostamento).
+- Percorsi nei menu scritti come MENU → 6 SETUP → Host Comm, con ogni voce evidenziata in azzurro;
+  tasti (ENTER, F3 [DETAIL], SHIFT + FWD) evidenziati in grigio.
+- Screenshot consecutivi affiancati a due a due e di altezza contenuta, per evitare pagine
+  quasi vuote; la frase che introduce un'immagine resta sulla stessa pagina dell'immagine.
+- Righe scritte a mano come elenchi ("•", "1 …, 2 …") trasformate in elenchi veri.
 - Dove serve, distinguere le istruzioni tra PC/server, pannello e Panel PC.
 - Schermate non reali (ricostruite) vanno indicate come "schermata illustrativa".
 
